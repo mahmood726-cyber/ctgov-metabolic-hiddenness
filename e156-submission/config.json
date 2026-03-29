@@ -1,0 +1,57 @@
+{
+  "title": "CT.gov Metabolic Hiddenness",
+  "slug": "ctgov-metabolic-hiddenness",
+  "author": "Mahmood Ahmad",
+  "date": "2026-03-29",
+  "path": "C:\\Projects\\ctgov-metabolic-hiddenness",
+  "type": "methods",
+  "primary_estimand": "2-year no-results rate within the metabolic family among eligible older CT.gov studies",
+  "summary": "A standalone E156 project on metabolic trial hiddenness across sponsor classes, phases, and leading sponsors.",
+  "body": "How much older metabolic trial evidence on ClinicalTrials.gov remains quiet once obesity, diabetes, and related studies are read as one family? We analysed 17,294 eligible older metabolic studies from the March 29, 2026 full-registry snapshot, covering diabetes, obesity, lipid, and endocrine-related portfolios. The project compares two-year no-results rates, ghost-protocol rates, sponsor-class contrasts, phase structure, and leading sponsors by unresolved stock. Across older metabolic studies, 76.2 percent lacked posted results and 41.9 percent showed neither results nor a linked publication. EARLY_PHASE1 remained the dominant phase bucket, while Novo Nordisk A/S carried the largest named sponsor stock at 391 older missing-results studies in the metabolic family. Metabolic hiddenness is therefore not confined to one sponsor sector and remains visible across large clinical-development and registry-sparsity channels. That is especially important because diabetes and obesity evidence directly shapes large prescribing, prevention, and public-health decisions. These metrics capture registry-visible omission rather than adjudicated legal breach within this metabolic family frame today.",
+  "sentences": [
+    {
+      "role": "Question",
+      "text": "How much older metabolic trial evidence on ClinicalTrials.gov remains quiet once obesity, diabetes, and related studies are read as one family?"
+    },
+    {
+      "role": "Dataset",
+      "text": "We analysed 17,294 eligible older metabolic studies from the March 29, 2026 full-registry snapshot, covering diabetes, obesity, lipid, and endocrine-related portfolios."
+    },
+    {
+      "role": "Method",
+      "text": "The project compares two-year no-results rates, ghost-protocol rates, sponsor-class contrasts, phase structure, and leading sponsors by unresolved stock."
+    },
+    {
+      "role": "Primary result",
+      "text": "Across older metabolic studies, 76.2 percent lacked posted results and 41.9 percent showed neither results nor a linked publication."
+    },
+    {
+      "role": "Secondary result",
+      "text": "EARLY_PHASE1 remained the dominant phase bucket, while Novo Nordisk A/S carried the largest named sponsor stock at 391 older missing-results studies in the metabolic family."
+    },
+    {
+      "role": "Interpretation",
+      "text": "Metabolic hiddenness is therefore not confined to one sponsor sector and remains visible across large clinical-development and registry-sparsity channels. That is especially important because diabetes and obesity evidence directly shapes large prescribing, prevention, and public-health decisions."
+    },
+    {
+      "role": "Boundary",
+      "text": "These metrics capture registry-visible omission rather than adjudicated legal breach within this metabolic family frame today."
+    }
+  ],
+  "notes": {
+    "app": "CT.gov Metabolic Hiddenness dashboard",
+    "data": "17,294 eligible older metabolic studies in the March 29, 2026 full-registry snapshot",
+    "code": "https://github.com/mahmood726-cyber/ctgov-metabolic-hiddenness",
+    "doi": "",
+    "version": "1.0.0",
+    "date": "2026-03-29",
+    "validation": "FULL REGISTRY RUN"
+  },
+  "affiliation": "Tahir Heart Institute",
+  "email": "author@example.com",
+  "references": [
+    "ClinicalTrials.gov API v2. National Library of Medicine. Accessed March 29, 2026.",
+    "PubMed E-utilities. National Center for Biotechnology Information. Accessed March 29, 2026.",
+    "Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement. BMJ. 2021;372:n71."
+  ]
+}
